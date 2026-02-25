@@ -7,3 +7,6 @@ StudentPerfomanceFactors.csv: Dataset utilizado para el proyecto
 model.pkl: La serializacion del modelo utilizando joblib
 
 predictor_nota_examen.py: Programa de inferencia utilizando python
+
+Demo de la aplicacion: 
+https://drive.google.com/file/d/1N5Ymw0KSbYh7wdz5r6fYngBojSVQRcd2/view?usp=sharing
